@@ -2,6 +2,5 @@
   Scriptus (Coming Soon)
 </h1>
 <p align="center">
-  Bash Scripting Made E
-asy
+  Bash Scripting Made Easy
 </p>
